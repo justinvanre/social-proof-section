@@ -18,8 +18,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [](https://justinvanre.github.io/social-proof-section/)
 
 ## My process
 
@@ -32,7 +31,7 @@ Users should be able to:
 
 ### Self reflection 
 
-In this project, I tried to build a layout using modular CSS for the first time. It got messy, but I've learned from it and know what to do differently next time. Next time I'll try to declare the media queries right below the rule set it needs to override to prevent confusion using ems. Also, I gave the modules a margin which made them location dependent. Also, I changed the root font size to 15px. Next time I'll leave it at 16px to reduce confusion and unnecessary long relative units. As for the modifiers, I had to put them with the modules instead of separately. 
+In this project, I tried to build a layout using modular CSS for the first time. It got messy, but I've learned from it and know what to do differently next time. Next time I'll try to declare the media queries right below the rule set it needs to override to prevent confusion using ems. Also, I gave the modules a margin which made them location dependent and, changed the root font size to 15px. Next time I'll leave it at 16px to reduce confusion and unnecessary long relative units. As for the modifiers, I had to put them with the modules instead of separately. 
 
 
 ## Author
